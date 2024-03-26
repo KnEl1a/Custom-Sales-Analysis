@@ -4,7 +4,7 @@ Google Colab: [link](https://www.freecodecamp.org/certification/Knaus-Elias-Gust
 
 **I recommend that the CSV files are located inside the drive folder**
 
-**Project Description: Sales Analysis with Linear Regression in Python**
+**Project Description: Sales Analysis with Python**
 
 **Objective:**
 This project aims to conduct a detailed analysis of sales using linear regression techniques and Machine Learning.
